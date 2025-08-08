@@ -1,1 +1,1 @@
-Learning obsidian vault
+# Learning obsidian vault
