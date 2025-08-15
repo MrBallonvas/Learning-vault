@@ -41,7 +41,7 @@ const useStore = create((set, get) => ({
 }))
 ```
 
-### Temporary subsription
+### Temporary subscription
 **``**
 ```javascript
 const useStore = create(set => ({ count: 0 }))
